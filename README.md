@@ -1,2 +1,2 @@
 # 100-days-of-python
-Python exercises
+Python exercises throughout 100 days 
